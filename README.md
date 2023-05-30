@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Python, JavaScript, HTML, CSS, Node.js<br>🎯 Goals: finish the auto-sudoku solver project<br>🎲 Fun fact: I love to cook. My signature dish is homemade spaghetti and meatballs.</h3>
+<h3 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Python, C++/Qt, JavaScript, HTML, CSS, Node.js<br>🎯 Goals: finish the auto-sudoku solver project<br>🎲 Fun fact: I love to cook. My signature dish is homemade spaghetti and meatballs.</h3>
 
 ###
 
