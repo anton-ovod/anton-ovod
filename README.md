@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development Bootcamp on Udemy**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anton-ovod](https://github.com/anton-ovod)
+- 👨‍💻 All of my projects are available [here](https://github.com/anton-ovod)
 
 - 📫 How to reach me **antovod36@gmail.com**
 
