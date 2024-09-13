@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [Movie Match Bot](https://github.com/anton-ovod/Movie_Match_Bot)
 
-- 🌱 I’m currently learning **Web Development Bootcamp on Udemy**
-
 - 👨‍💻 All of my projects are available [here](https://github.com/anton-ovod)
 
 - 📫 How to reach me **antovod36@gmail.com**
