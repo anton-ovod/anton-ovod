@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anton Ovod</h1>
 
-<div align="center"> <img src="https://github.com/anton-ovod/anton-ovod/blob/main/header-image.png"> </div>
+<div align="center"> <img src="https://github.com/anton-ovod/anton-ovod/blob/main/github-header-image.png"> </div>
 <h3 align="center">A third-year software development student passionate about coding, eager to learn and contribute to open-source projects, and committed to honing my programming skills.</h3>
 
 - 🔭 I’m currently working on [Movie Match Bot](https://github.com/anton-ovod/Movie_Match_Bot)
