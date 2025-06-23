@@ -3,10 +3,6 @@
 
 <h3 align="center">A third-year software development student passionate about coding, eager to learn and contribute to open-source projects, and committed to honing my programming skills.</h3>
 
-- 🔭 I’m currently working on [Chat-app](https://github.com/anton-ovod/chat-app)
-
-- 👨‍💻 All of my projects are available [here](https://github.com/anton-ovod)
-
 - 📫 How to reach me **antovod36@gmail.com**
 
 
