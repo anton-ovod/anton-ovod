@@ -1,10 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anton Ovod</h1>
 
-<h3 align="center">A third-year software development student passionate about coding, eager to learn and contribute to open-source projects, and committed to honing my programming skills.</h3>
-
 - 📫 How to reach me **antovod36@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 
